@@ -1,0 +1,1 @@
+alert("welcome to our website please place your order!")
