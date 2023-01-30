@@ -19,6 +19,19 @@ h3{
     background: blue;
 }
 
-#main-content h3{
+#first h3{
     color: white;
+}
+
+a:hover{
+    color: red;
+}
+#class a{
+    margin: 20px;
+    padding: 80px;
+    float: none;
+}
+
+{
+    border: 2px blue;
 }
